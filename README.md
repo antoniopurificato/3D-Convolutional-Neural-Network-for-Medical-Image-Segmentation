@@ -21,7 +21,7 @@ You have simply to paste all the Notebooks in your Drive.<br>
 ### First task
 
 <p align="center">
- <img src="/src/NN.png" width="500" title="Network result on faces" >
+ <img src="/src/NN.png" width="500" title="Results of first task" >
 <p\>
  
 ### Second task
