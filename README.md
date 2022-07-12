@@ -27,7 +27,7 @@ You have simply to paste all the Notebooks in your Drive.<br>
 ### Second task
 
 <p align="center">
- <img src="/src/NN2".png" width="500" title="Results of second task." >
+ <img src="/src/NN2.png" width="500" title="Results of second task." >
 <p\>
 
 
